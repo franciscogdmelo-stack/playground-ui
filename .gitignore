@@ -1,0 +1,8 @@
+# Vídeos e arquivos gerados (pesados) ficam fora do git
+bruto/*
+trabalho/*
+final/*
+!bruto/.gitkeep
+!trabalho/.gitkeep
+!final/.gitkeep
+__pycache__/
